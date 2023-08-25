@@ -1,0 +1,21 @@
+{
+  "name": "CloudVault",
+  "short_name": "CloudVault",
+  "start_url": "./html/home.html",
+  "backgroud_color": "#fefefe",
+  "theme_color": "#fefefe",
+  "display": "standalone",
+  "icons": 
+  [
+    {
+      "src": "pwa/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "pwa/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

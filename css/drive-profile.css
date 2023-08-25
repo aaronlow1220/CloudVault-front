@@ -1,0 +1,27 @@
+@import url("./fonts.css");
+@import url("./variables.css");
+
+:focus-visible {
+  outline: 0;
+}
+
+.profile-picture{
+  width: 5rem;
+  width: 5rem;
+}
+
+.profile-picture img {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 100rem;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 992px) {
+}
+
+@media screen and (max-width: 768px) {
+}
